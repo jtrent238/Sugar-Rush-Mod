@@ -1,0 +1,9 @@
+Epic Proportions Mod ChangeLog
+
+
+1.0.0.0
+- Added Black Liquorice
+- Added Red Liquorice
+- Added Bottle Of Honey
+- Added Bottle Of Milk
+- Added Achevements

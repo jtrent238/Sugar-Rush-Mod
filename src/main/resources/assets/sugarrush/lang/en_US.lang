@@ -1,0 +1,26 @@
+//jtrent238's Sugar Rush Mod Lang File
+//en_US
+
+//Items
+item.ItemLiquorice_Black.name=Black Liquorice
+item.ItemLiquorice_Red.name=Red Liquorice
+item.ItemBottle_Honey.name=Bottle Of Honey
+item.ItemBottle_Milk.name=Bottle Of Milk
+
+	/Weapons & Tools
+	/Armor
+	/Spawn Eggs
+//Blocks
+//Entitys
+//Mod Devs And Helpers
+entity.Entityjtrent238.name=jtrent238
+//Container
+//Generators
+//Achievements
+achievement.install=It's A Sugar Rush
+achievement.install.desc=Install Sugar Rush Mod
+
+//Enchantments
+//Potions
+//Creative Tabs
+itemGroup.SugarRushMod=jtrent238's SugarRush Mod
